@@ -1,0 +1,29 @@
+p{
+    color:red;
+}
+
+form{
+    background-color: rgb(177, 246, 241);
+    width:600px;
+    margin: 50px auto;
+    border-radius: 5px;
+    border: 5px solid rgb(60, 60, 66);
+    padding: 50px;
+    box-shadow:5px;
+    
+    
+}
+
+label {
+    display: block;
+    width: 130px;
+    color: rgb(3, 3, 3);
+  }
+
+  h1{
+    color:rgb(0, 2, 5);
+  }
+  
+  #submit{
+   background-color: rgb(8, 225, 66);
+  }
